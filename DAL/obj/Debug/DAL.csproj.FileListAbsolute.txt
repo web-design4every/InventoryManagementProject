@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\SE1421_Project\DAL\bin\Debug\DAL.dll
+C:\Users\Admin\source\repos\SE1421_Project\DAL\bin\Debug\DAL.pdb
+C:\Users\Admin\source\repos\SE1421_Project\DAL\bin\Debug\Entity.dll
+C:\Users\Admin\source\repos\SE1421_Project\DAL\bin\Debug\Entity.pdb
+C:\Users\Admin\source\repos\SE1421_Project\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SE1421_Project\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SE1421_Project\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Admin\source\repos\SE1421_Project\DAL\obj\Debug\DAL.dll
+C:\Users\Admin\source\repos\SE1421_Project\DAL\obj\Debug\DAL.pdb
